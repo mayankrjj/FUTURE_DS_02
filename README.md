@@ -32,8 +32,3 @@ A summary report including:
 ## 🤝 Contribution
 Contributions are welcome! Feel free to submit pull requests or report issues.
 
-## 📬 Contact
-Created by **Mayank Rajput**  
-📩 Reach out at **mayankrjj@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/mayankrjj)  
-🐙 [GitHub](https://github.com/mayankrjj)
